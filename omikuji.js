@@ -21,3 +21,4 @@ if (rand == 0) {
   }
   document.getElementById("result").innerHTML = userresult;
   
+
